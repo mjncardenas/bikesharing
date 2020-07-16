@@ -1,0 +1,31 @@
+# NYC Citi Bike Analysis
+This is a summary of the analytic work that I did with the NYC Citi Bike data.
+
+## Summary of the Analysis
+In New York City, there were about 2,344,224 people who used Citi Bikes in August 2019. Most of the Citi Bike customers were male and were subscribers. The trip duration for each customer vary from 63 minutes to 349,757 minutes. The start and ending locations are also close to a Mc Donald’s restaurant. The peak hours start at 7:00 am to 8:00 pm. 
+
+## Slides
+### How is the population in Des Moines Iowa related to New York City?
+In the slide “Population per City,” it shows that although there is a wide gap in terms of the population in New York City and the population in Des Moines Iowa,  most of the Citi Bike customers were subscribers which means that they were people who live in the area. 
+
+### Gender Differences
+	From the Citi Bike analysis, it shows that most of the Citi Bike customers were males. As it shows from the second slide, “Does Gender make a difference on who uses the Citi Bike,” it 
+shows there are almost an equal amount of males to females in Des Moines. 
+
+### Mc Donald’s Locations
+	The slides in 3-5 show that one of the most popular fast food restaurants in the nation is Mc Donald’s. These slides show that the most popular spots where customers start and end their Citi Bike trips are around a Mc Donald’s. Slide three shows that there are about the same amount of Mc Donald’s location in Des Moines and New York City. Therefore, it would be a good reason to place a Citi Bike stations near a Mc Donald’s.
+
+### Peak Hours
+	In New York City, the graph on slide 6, shows that customers start using Citi Bikes start at 7:00 am and it ends at about 8:00 pm. Seven o’clock is about the time where people can be heading to work, and they could be using Citi Bikes to get to their destination. In addition, the peak hours are between 5-7 pm. These hours could also be same time that people all over the country get off of work. 
+
+## Resources
+US Census Bureau. QuickFacts Des Moines city, Iowa, 1 July 2019, https://www.census.gov/quickfacts/desmoinescityiowa. Accessed 9 July 2020.
+
+New York City Population By Neighborhood Tabulation Areas.NYC Open Data, 7, Feb. 2020, https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Neighborhood-Tabulatio/swpk-hqdp. Accessed 9 July 2020.
+
+ArcGis Hub. Feb 2020, http://hub.arcgis.com/datasets/esri::zip-code-1/data?geometry=134.295%2C-0.073%2C-20.392%2C76.663&orderBy=STATE_NAME&where=STATE_NAME%20%3D%20%27New%20York%27%20AND%20ID%20%3D%20%2710019%27. Accessed 9 July 2020.
+
+
+
+[link to Tableau]("https://public.tableau.com/profile/michelle.cardenas#!/vizhome/Citi_bikeChallenge/CitiBikeAnalysisStory?publish=yes")
+[link to GitHub](LINK GOES HERE "link to dashboard")
